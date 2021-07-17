@@ -1,11 +1,11 @@
-name: "MyLabJournal"
+name: "DreamerBRAND"
 navbar:
-  title: "MyLabJournal"
+  title: "DreamerBRAND"
   left:
     - text: "Home"
       href: index.html
-    - text: "Journal"
+    - text: "Paintings"
       href: Journal.html
-    - text: "Links"
+    - text: "Biography"
       href: Links.html
 output_dir: "docs"
